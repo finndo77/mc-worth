@@ -9,6 +9,8 @@ create issues for requested updates please
 
 comments welcome
 
+I have decided to use the value of coal / 8 for any crafting recipe that requires smelting, to simply the process.
+
 The point of this repo is to retain a publicly available listibng of values for in game minecraft items, usable by plugins and mods for Economy systems in Minecraft.
 
 
