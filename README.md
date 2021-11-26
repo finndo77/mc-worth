@@ -3,7 +3,9 @@ hosting for the Minecraft worth.yml file usable with EssentialsX plugin and othe
 
 License: (short version) Do what you want with it, a large part of the content is not mine anyway.  Share what you add, pull requests will be accepted most of the time.  Fork it if you want, but please submit pull requests if you add any significant changes.
 
-create issues for updates please
+Please note this is a work in progress, as I complete the revamp of the list prices I will do a "release", when I finish adding the 1.16 items, I will do a "release", when I finish adding the 1.17 items, I will do a "release", and so on.  Please note my intent is to post this page on Reddit r/admincraft after performing the initial "release".
+
+create issues for requested updates please
 
 comments welcome
 
