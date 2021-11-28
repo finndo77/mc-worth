@@ -1,5 +1,6 @@
 # mc-worth
 hosting for the Minecraft worth.yml file usable with EssentialsX plugin and others
+editing is done via a [google doc sheet](https://docs.google.com/spreadsheets/d/1tmtnwctj-IX8_PXGhj87w_ewZYvSXB9fF8CAqP4JElA/edit?usp=sharing) for the use of formulas.
 
 License: (short version) Do what you want with it, a large part of the content is not mine anyway.  Share what you add, pull requests will be accepted most of the time.  Fork it if you want, but please submit pull requests if you add any significant changes.
 
