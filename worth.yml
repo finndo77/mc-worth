@@ -266,7 +266,7 @@ worth:
   dispenser: 72.75
   dolphinspawnegg: 0.00
   donkeyspawnegg: 0.00
-  dragonbreath: 200.00
+  dragonbreath: 100.00
   dragonegg: 25812.00
   dragonhead: 1434.00
   driedkelp: 3.00
@@ -300,7 +300,7 @@ worth:
   feather: 3.00
   fence: 3.00
   fencegate: 4.00
-  fermentedspidereye: 18.00
+  fermentedspidereye: 9.50
   fern: 0.30
   firecharge: 8.17
   firecoral: 20.00
@@ -490,7 +490,7 @@ worth:
   limestainedglasspane: 9.56
   limeterracotta: 1.50
   limewool: 5.00
-  lingeringpotion: 80.00
+  lingeringpotion: 135.00
   llamaspawnegg: 0.00
   lodestone: 681.71
   loom: 7.00
@@ -791,7 +791,7 @@ worth:
   spectralarrow: 81.25
   spidereye: 4.00
   spiderspawnegg: 0.00
-  splashpotion: 15.00
+  splashpotion: 43.00
   sponge: 260.00
   spruceboat: 12.50
   sprucebutton: 2.50
@@ -845,7 +845,7 @@ worth:
   suspiciousstew: 50.00
   sweetberries: 0.50
   terracotta: 12.00
-  tippedarrow: 11.25
+  tippedarrow: 18.13
   tnt: 72.00
   tntminecart: 72.00
   torch: 343.50
@@ -926,3 +926,6 @@ worth:
   zombiepigmanspawnegg: 0.00
   zombiespawnegg: 0.00
   zombievillagerspawnegg: 0.00
+  potion: 35.00
+  waterbottle: 24.50
+  awkwardpotion: 45.00
