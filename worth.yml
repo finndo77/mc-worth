@@ -17,21 +17,21 @@ worth:
   acaciastairs: 5.25
   acaciatrapdoor: 10.50
   acaciawood: 18.67
-  activatorrail: 1117.00
+  activatorrail: 836.50
   allium: 4.00
   ancientdebris: 34.00
-  andesite: 7.75
-  andesiteslab: 3.88
-  andesitestairs: 11.63
-  andesitewall: 7.75
+  andesite: 17.75
+  andesiteslab: 8.88
+  andesitestairs: 26.63
+  andesitewall: 17.75
   anvil: 315.75
   apple: 16.00
-  armorstand: 3.00
-  arrow: 0.50
+  armorstand: 23.61
+  arrow: 1.25
   azurebluet: 4.00
   bakedpotato: 4.00
   bamboo: 3.75
-  banner: 503.75
+  banner: 25.00
   barrel: 22.00
   batspawnegg: 0.00
   beacon: 132.50
@@ -42,7 +42,7 @@ worth:
   beetroot: 1.00
   beetrootseeds: 0.40
   beetrootsoup: 12.00
-  bell: 200.00
+  bell: 1.00
   birchboat: 12.50
   birchbutton: 2.50
   birchdoor: 15.00
@@ -60,30 +60,30 @@ worth:
   birchwood: 13.33
   blackbed: 27.00
   blackcarpet: 3.33
-  blackconcrete: 12.20
-  blackconcretepowder: 12.20
+  blackconcrete: 23.00
+  blackconcretepowder: 23.00
   blackdye: 3.00
   blackglazedterracotta: 6.00
   blackshulkerbox: 508.00
   blackstainedglass: 25.50
   blackstainedglasspane: 9.56
-  blackstone: 33.54
-  blackstoneslab: 16.77
-  blackstonestairs: 50.31
-  blackstonewall: 33.54
+  blackstone: 56.71
+  blackstoneslab: 28.35
+  blackstonestairs: 85.06
+  blackstonewall: 56.71
   blackterracotta: 1.50
   blackwool: 5.00
-  blastfurnace: 178.42
+  blastfurnace: 201.58
   blazepowder: 12.50
   blazerod: 25.00
   blazespawnegg: 0.00
   bluebed: 28.00
   bluecarpet: 3.33
-  blueconcrete: 13.20
-  blueconcretepowder: 13.20
+  blueconcrete: 24.00
+  blueconcretepowder: 24.00
   bluedye: 4.00
   blueglazedterracotta: 2.25
-  blueice: 40.00
+  blueice: 50.00
   blueorchid: 5.00
   blueshulkerbox: 508.00
   bluestainedglass: 25.50
@@ -111,8 +111,8 @@ worth:
   brickwall: 32.00
   brownbed: 28.00
   browncarpet: 3.33
-  brownconcrete: 13.20
-  brownconcretepowder: 13.20
+  brownconcrete: 24.00
+  brownconcretepowder: 24.00
   browndye: 4.00
   brownglazedterracotta: 6.00
   brownmushroom: 4.00
@@ -128,9 +128,9 @@ worth:
   bucket: 53.25
   cactus: 3.00
   cake: 5222.50
-  campfire: 1488.25
+  campfire: 39.00
   carrot: 1.00
-  carrotonastick: 1442.25
+  carrotonastick: 6.00
   cartographytable: 16.00
   carvedpumpkin: 7.50
   catspawnegg: 0.00
@@ -145,16 +145,16 @@ worth:
   chestminecart: 29.25
   chicken: 4.00
   chickenspawnegg: 0.00
-  chiseledpolishedblackstone: 67.08
-  chiseledquartzblock: 32.00
-  chiseledredsandstone: 44.00
+  chiseledpolishedblackstone: 113.41
+  chiseledquartzblock: 112.00
+  chiseledredsandstone: 62.00
   chiseledsandstone: 16.00
-  chiseledstonebricks: 21.03
+  chiseledstonebricks: 36.47
   chorusflower: 110.50
   chorusfruit: 32.00
   clay: 7.50
   clayball: 1.88
-  clock: 74.11
+  clock: 135.88
   coal: 4.00
   coalblock: 36.00
   coalore: 6.00
@@ -168,10 +168,10 @@ worth:
   cod: 4.00
   codbucket: 57.25
   commandblock: 0.00
-  comparator: 269.63
+  comparator: 379.12
   compass: 185.75
   composter: 21.00
-  conduit: 3007.50
+  conduit: 3031.50
   cookedbeef: 3.50
   cookedchicken: 29.75
   cookedcod: 4.50
@@ -182,28 +182,28 @@ worth:
   cookie: 8.00
   cornflower: 4.00
   cowspawnegg: 0.00
-  crackedpolishedblackstonebricks: 8.89
-  crackedstonebricks: 11.01
+  crackedpolishedblackstonebricks: 14.68
+  crackedstonebricks: 18.74
   craftingtable: 8.00
   creeperhead: 300.00
   creeperspawnegg: 0.00
   crimsonbutton: 4.00
   crimsonhyphae: 21.33
-  crimsonnylium: 3416.50
+  crimsonnylium: 7.00
   crimsonplanks: 4.00
   crimsonpressureplate: 8.00
   crimsonslab: 2.00
   crimsonstairs: 6.00
   crimsonstem: 16.00
   crossbow: 45.00
-  cutredsandstone: 33.00
-  cutredsandstoneslab: 49.50
+  cutredsandstone: 46.50
+  cutredsandstoneslab: 69.75
   cutsandstone: 2.00
   cutsandstoneslab: 1.00
   cyanbed: 31.50
   cyancarpet: 3.33
-  cyanconcrete: 16.70
-  cyanconcretepowder: 16.70
+  cyanconcrete: 27.50
+  cyanconcretepowder: 27.50
   cyandye: 7.50
   cyanglazedterracotta: 2.00
   cyanshulkerbox: 508.00
@@ -229,7 +229,7 @@ worth:
   darkprismarine: 83.00
   darkprismarineslab: 41.50
   darkprismarinestairs: 124.50
-  daylightdetector: 130.50
+  daylightdetector: 250.50
   deadbraincoral: 15.00
   deadbraincoralblock: 30.00
   deadbraincoralfan: 15.00
@@ -244,7 +244,7 @@ worth:
   deadtubecoral: 15.00
   deadtubecoralblock: 30.00
   deadtubecoralfan: 15.00
-  detectorrail: 233.76
+  detectorrail: 241.49
   diamond: 119.50
   diamondaxe: 373.50
   diamondblock: 1071.00
@@ -258,10 +258,10 @@ worth:
   diamondpickaxe: 373.50
   diamondshovel: 134.50
   diamondsword: 246.50
-  diorite: 23.50
-  dioriteslab: 11.75
-  dioritestairs: 35.25
-  dioritewall: 23.50
+  diorite: 63.50
+  dioriteslab: 31.75
+  dioritestairs: 95.25
+  dioritewall: 63.50
   dirt: 1.00
   dispenser: 72.75
   dolphinspawnegg: 0.00
@@ -310,21 +310,21 @@ worth:
   fireworkrocket: 45.00
   fireworks: 45.00
   fireworkstar: 25.00
-  fishingrod: 1441.25
+  fishingrod: 5.00
   fletchingtable: 10.00
   flint: 1.00
-  flintandsteel: 20.00
+  flintandsteel: 18.75
   flowerpot: 24.00
   foxspawnegg: 0.00
   frostedice: 5.00
   furnace: 60.00
-  furnaceminecart: 60.00
+  furnaceminecart: 806.25
   ghastspawnegg: 0.00
   ghasttear: 119.50
   glass: 24.50
   glassbottle: 24.50
   glasspane: 9.19
-  glisteringmelonslice: 8.00
+  glisteringmelonslice: 69.77
   glowstone: 80.00
   glowstonedust: 20.00
   goldblock: 310.50
@@ -344,18 +344,18 @@ worth:
   goldingot: 34.50
   goldnugget: 3.78
   goldore: 34.00
-  granite: 39.75
-  graniteslab: 19.88
-  granitestairs: 59.63
-  granitewall: 39.75
+  granite: 79.75
+  graniteslab: 39.88
+  granitestairs: 119.63
+  granitewall: 79.75
   grass: 0.30
   grassblock: 1.50
-  gravel: 0.30
-  graybanner: 18.00
+  gravel: 3.00
+  graybanner: 30.00
   graybed: 29.00
   graycarpet: 3.33
-  grayconcrete: 14.20
-  grayconcretepowder: 14.20
+  grayconcrete: 25.00
+  grayconcretepowder: 25.00
   graydye: 5.00
   grayglazedterracotta: 2.00
   grayshulkerbox: 508.00
@@ -365,8 +365,8 @@ worth:
   graywool: 5.00
   greenbed: 27.50
   greencarpet: 3.33
-  greenconcrete: 12.70
-  greenconcretepowder: 12.70
+  greenconcrete: 23.50
+  greenconcretepowder: 23.50
   greendye: 3.50
   greenglazedterracotta: 2.00
   greenshulkerbox: 508.00
@@ -374,10 +374,9 @@ worth:
   greenstainedglasspane: 9.56
   greenterracotta: 1.50
   greenwool: 5.00
-  grindstone: 505.52
+  grindstone: 376.85
   guardianspawnegg: 0.00
   gunpowder: 8.00
-  hardenedclay: 6.00
   hayblock: 18.00
   heartofthesea: 2987.50
   heavyweightedpressureplate: 35.50
@@ -386,20 +385,20 @@ worth:
   honeycomb: 12.50
   honeycombblock: 50.00
   hopper: 104.75
-  hopperminecart: 104.75
+  hopperminecart: 851.00
   horncoral: 20.00
   horncoralblock: 70.00
   horncoralfan: 20.00
   horsespawnegg: 0.00
   houstonia: 4.00
   huskspawnegg: 0.00
-  ice: 50.00
-  infestedchiseledstonebricks: 25.00
-  infestedcobblestone: 25.00
-  infestedcrackedstonebricks: 25.00
-  infestedmossystonebricks: 25.00
-  infestedstone: 25.00
-  infestedstonebricks: 25.00
+  ice: 5.00
+  infestedchiseledstonebricks: 0.00
+  infestedcobblestone: 0.00
+  infestedcrackedstonebricks: 0.00
+  infestedmossystonebricks: 0.00
+  infestedstone: 0.00
+  infestedstonebricks: 0.00
   inksac: 3.00
   ironaxe: 55.25
   ironbars: 6.66
@@ -418,9 +417,9 @@ worth:
   ironshovel: 19.75
   ironsword: 36.50
   irontrapdoor: 71.00
-  itemframe: 12.00
-  jackolantern: 491.25
-  jukebox: 210.00
+  itemframe: 18.00
+  jackolantern: 351.00
+  jukebox: 135.50
   jungleboat: 15.00
   junglebutton: 3.00
   jungledoor: 18.00
@@ -437,12 +436,12 @@ worth:
   jungletrapdoor: 9.00
   junglewood: 16.00
   kelp: 2.50
-  ladder: 1119.42
-  lantern: 22.00
+  ladder: 2.33
+  lantern: 359.28
   lapisblock: 164.77
   lapislazuli: 18.31
   lapisore: 119.00
-  lavabucket: 100.00
+  lavabucket: 53.25
   lead: 69.50
   leather: 10.00
   leatherboots: 40.00
@@ -451,12 +450,12 @@ worth:
   leatherhorsearmor: 70.00
   leatherleggings: 70.00
   lectern: 66.00
-  lever: 487.25
-  lightbluebanner: 18.00
+  lever: 8.50
+  lightbluebanner: 31.00
   lightbluebed: 30.00
   lightbluecarpet: 3.33
-  lightblueconcrete: 15.20
-  lightblueconcretepowder: 15.20
+  lightblueconcrete: 26.00
+  lightblueconcretepowder: 26.00
   lightbluedye: 6.00
   lightblueglazedterracotta: 2.00
   lightblueshulkerbox: 508.00
@@ -464,11 +463,11 @@ worth:
   lightbluestainedglasspane: 9.56
   lightblueterracotta: 1.50
   lightbluewool: 5.00
-  lightgraybanner: 18.00
+  lightgraybanner: 32.00
   lightgraybed: 31.00
   lightgraycarpet: 3.33
-  lightgrayconcrete: 16.20
-  lightgrayconcretepowder: 16.20
+  lightgrayconcrete: 27.00
+  lightgrayconcretepowder: 27.00
   lightgraydye: 7.00
   lightgrayglazedterracotta: 2.00
   lightgraystainedglass: 25.50
@@ -479,11 +478,11 @@ worth:
   lilac: 8.00
   lilyofthevalley: 4.00
   lilypad: 3.00
-  limebanner: 18.00
+  limebanner: 33.00
   limebed: 32.00
   limecarpet: 3.33
-  limeconcrete: 17.20
-  limeconcretepowder: 17.20
+  limeconcrete: 28.00
+  limeconcretepowder: 28.00
   limedye: 8.00
   limeglazedterracotta: 2.00
   limeshulkerbox: 508.00
@@ -493,13 +492,13 @@ worth:
   limewool: 5.00
   lingeringpotion: 80.00
   llamaspawnegg: 0.00
-  lodestone: 1348.56
-  loom: 10.00
-  magentabanner: 18.00
+  lodestone: 681.71
+  loom: 7.00
+  magentabanner: 39.00
   magentabed: 38.00
   magentacarpet: 3.33
-  magentaconcrete: 23.20
-  magentaconcretepowder: 23.20
+  magentaconcrete: 34.00
+  magentaconcretepowder: 34.00
   magentadye: 14.00
   magentaglazedterracotta: 2.00
   magentashulkerbox: 508.00
@@ -507,65 +506,67 @@ worth:
   magentastainedglasspane: 9.56
   magentaterracotta: 1.50
   magentawool: 5.00
-  magma: 590.00
-  magmablock: 590.00
-  magmacream: 147.50
+  magma: 110.00
+  magmablock: 110.00
+  magmacream: 27.50
   magmacubespawnegg: 0.00
-  map: 100.00
+  map: 197.75
   melon: 5.00
   melonseeds: 1.00
-  melonslice: 20.00
+  melonslice: 39.55
   milkbucket: 22.00
   minecart: 746.25
   mooshroomspawnegg: 0.00
   mossycobblestone: 13.25
   mossycobblestonestairs: 19.88
   mossycobblestonewall: 13.25
-  mossystonebricks: 22.51
-  mossystonebrickstairs: 33.77
-  mossystonebrickwall: 22.51
+  mossystonebricks: 30.24
+  mossystonebrickstairs: 45.35
+  mossystonebrickwall: 30.24
   mulespawnegg: 0.00
   mushroomstew: 10.00
-  musicdisc11: 250.00
-  musicdisc13: 250.00
-  musicdiscblocks: 250.00
-  musicdisccat: 250.00
-  musicdiscchirp: 250.00
-  musicdiscfar: 250.00
-  musicdiscmall: 250.00
-  musicdiscmellohi: 250.00
-  musicdiscstal: 250.00
-  musicdiscstrad: 250.00
-  musicdiscwait: 250.00
-  musicdiscward: 250.00
+  musicdisc11: 45.00
+  musicdisc13: 1120.50
+  musicdiscblocks: 239.00
+  musicdisccat: 3213.00
+  musicdiscchirp: 747.00
+  musicdiscfar: 747.00
+  musicdiscmall: 747.00
+  musicdiscmellohi: 747.00
+  musicdiscotherside: 210.00
+  musicdiscpigstep: 120.00
+  musicdiscstal: 956.00
+  musicdiscstrad: 956.00
+  musicdiscwait: 747.00
+  musicdiscward: 1912.00
   mutton: 4.00
   mycelium: 4.00
-  nametag: 20.00
-  nautilusshell: 701.29
-  netherbrick: 2.50
-  netherbrickfence: 8.00
-  netherbricks: 6.00
-  netherbrickslab: 3.00
-  netherbrickstairs: 9.00
-  netherbrickwall: 6.00
-  netheriteaxe: 478.56
-  netheriteblock: 3231.50
-  netheriteboots: 1430.06
-  netheritechestplate: 837.06
-  netheritehelmet: 1315.06
-  netheritehoe: 956.56
-  netheriteingot: 359.06
-  netheriteleggings: 1220.56
-  netheritepickaxe: 478.06
-  netheritescrap: 13.26
-  netheriteshovel: 732.56
-  netheritesword: 493.56
+  nametag: 238.00
+  nautilusshell: 724.46
+  netherbrick: 5.50
+  netherbrickfence: 99.00
+  netherbricks: 22.00
+  netherbrickslab: 11.00
+  netherbrickstairs: 33.00
+  netherbrickwall: 22.00
+  netheriteaxe: 509.44
+  netheriteblock: 3509.48
+  netheriteboots: 1460.94
+  netheritechestplate: 867.94
+  netheritehelmet: 1345.94
+  netheritehoe: 987.44
+  netheriteingot: 389.94
+  netheriteleggings: 1251.44
+  netheritepickaxe: 508.94
+  netheritescrap: 20.99
+  netheriteshovel: 763.44
+  netheritesword: 524.44
   netherquartzore: 4.00
-  netherrack: 0.50
+  netherrack: 5.00
   netherstar: 3414.50
   netherwart: 10.00
   netherwartblock: 90.00
-  noteblock: 20.00
+  noteblock: 20.75
   oakboat: 20.00
   oakbutton: 4.00
   oakdoor: 24.00
@@ -581,16 +582,16 @@ worth:
   oakstairs: 3.00
   oaktrapdoor: 6.00
   oakwood: 10.67
-  observer: 15.00
+  observer: 84.50
   obsidian: 25.00
   ocelotspawnegg: 0.00
-  orangebanner: 18.00
+  orangebanner: 33.00
   orangebed: 140.50
   orangecarpet: 4.00
-  orangeconcrete: 17.20
-  orangeconcretepowder: 17.20
+  orangeconcrete: 28.00
+  orangeconcretepowder: 28.00
   orangedye: 8.00
-  orangeglazedterracotta: 60.26
+  orangeglazedterracotta: 67.99
   orangeshulkerbox: 1107.40
   orangestainedglass: 120.50
   orangestainedglasspane: 45.19
@@ -599,49 +600,49 @@ worth:
   orangewool: 6.00
   orchid: 4.00
   oxeyedaisy: 4.00
-  packedice: 3.00
-  painting: 6.00
+  packedice: 45.00
+  painting: 12.00
   pandaspawnegg: 0.00
   paper: 1.50
   parrotspawnegg: 0.00
   peony: 8.00
   petrifiedoakslab: 1.00
-  phantommembrane: 100.00
+  phantommembrane: 35.00
   phantomspawnegg: 0.00
   pigspawnegg: 0.00
   pillagerspawnegg: 0.00
-  pinkbanner: 18.00
+  pinkbanner: 31.00
   pinkbed: 138.50
   pinkcarpet: 4.00
-  pinkconcrete: 15.20
-  pinkconcretepowder: 15.20
+  pinkconcrete: 26.00
+  pinkconcretepowder: 26.00
   pinkdye: 6.00
-  pinkglazedterracotta: 60.26
+  pinkglazedterracotta: 67.99
   pinkshulkerbox: 1107.40
   pinkstainedglass: 120.50
   pinkstainedglasspane: 45.19
   pinkterracotta: 51.00
   pinkwool: 6.00
-  piston: 467.00
+  piston: 326.75
   playerhead: 2000.00
-  podzol: 1.00
+  podzol: 1.50
   poisonouspotato: 0.50
   polarbearspawnegg: 0.00
   polishedandesite: 34.00
   polishedandesiteslab: 17.00
   polishedandesitestairs: 51.00
-  polishedblackstone: 16.77
-  polishedblackstonebricks: 16.77
-  polishedblackstonebrickslab: 8.39
-  polishedblackstonebrickstairs: 25.16
-  polishedblackstonebrickwall: 16.77
-  polishedblackstonebutton: 16.77
-  polishedblackstonepressureplate: 33.54
-  polishedblackstoneslab: 8.39
-  polishedblackstonestairs: 25.16
-  polisheddiorite: 246.50
-  polisheddioriteslab: 123.25
-  polisheddioritestairs: 369.75
+  polishedblackstone: 28.35
+  polishedblackstonebricks: 28.35
+  polishedblackstonebrickslab: 14.18
+  polishedblackstonebrickstairs: 42.53
+  polishedblackstonebrickwall: 28.35
+  polishedblackstonebutton: 28.35
+  polishedblackstonepressureplate: 56.71
+  polishedblackstoneslab: 14.18
+  polishedblackstonestairs: 42.53
+  polisheddiorite: 63.50
+  polisheddioriteslab: 31.75
+  polisheddioritestairs: 95.25
   polishedgranite: 34.00
   polishedgraniteslab: 17.00
   polishedgranitestairs: 51.00
@@ -666,10 +667,10 @@ worth:
   pumpkinseeds: 1.50
   purplebed: 140.50
   purplecarpet: 4.00
-  purpleconcrete: 17.20
-  purpleconcretepowder: 17.20
+  purpleconcrete: 28.00
+  purpleconcretepowder: 28.00
   purpledye: 8.00
-  purpleglazedterracotta: 60.26
+  purpleglazedterracotta: 67.99
   purpleshulkerbox: 1107.40
   purplestainedglass: 120.50
   purplestainedglasspane: 45.19
@@ -680,18 +681,18 @@ worth:
   purpurpillar: 32.50
   purpurslab: 16.25
   purpurstairs: 48.75
-  quartz: 4.00
-  quartzblock: 16.00
-  quartzbricks: 16.00
+  quartz: 14.00
+  quartzblock: 56.00
+  quartzbricks: 56.00
   quartzore: 4.00
-  quartzpillar: 16.00
-  quartzslab: 8.00
-  quartzstairs: 24.00
+  quartzpillar: 56.00
+  quartzslab: 28.00
+  quartzstairs: 84.00
   rabbit: 4.00
   rabbitfoot: 8.00
   rabbithide: 6.00
   rabbitspawnegg: 0.00
-  rabbitstew: 2999.50
+  rabbitstew: 35.00
   rail: 896.50
   ravagerspawnegg: 0.00
   recipie: 250.00
@@ -709,38 +710,37 @@ worth:
   recordward: 250.00
   redbed: 136.50
   redcarpet: 4.00
-  redconcrete: 13.20
-  redconcretepowder: 13.20
+  redconcrete: 24.00
+  redconcretepowder: 24.00
   reddye: 4.00
-  redglazedterracotta: 60.26
+  redglazedterracotta: 67.99
   redmushroom: 4.00
   redmushroomblock: 36.00
-  rednetherbrick: 22.00
-  rednetherbricks: 22.00
-  rednetherbrickslab: 11.00
-  rednetherbrickstairs: 33.00
-  rednetherbrickwall: 22.00
-  redsand: 0.50
-  redsandstone: 2.00
-  redsandstoneslab: 1.00
-  redsandstonestairs: 3.00
-  redsandstonewall: 2.00
+  rednetherbricks: 31.00
+  rednetherbrickslab: 15.50
+  rednetherbrickstairs: 46.50
+  rednetherbrickwall: 31.00
+  redsand: 2.00
+  redsandstone: 8.00
+  redsandstoneslab: 4.00
+  redsandstonestairs: 12.00
+  redsandstonewall: 8.00
   redshulkerbox: 1107.40
   redstainedglass: 120.50
   redstainedglasspane: 45.19
   redstone: 12.75
   redstoneblock: 114.75
-  redstonelamp: 59.00
+  redstonelamp: 120.77
   redstoneore: 51.00
   redstonetorch: 13.75
   redterracotta: 51.00
   redtulip: 5.00
   redwool: 6.00
   reeds: 2.50
-  repeater: 71.79
+  repeater: 94.96
   rosebush: 8.00
   rottenflesh: 0.50
-  saddle: 100.00
+  saddle: 178.50
   salmon: 4.00
   salmonbucket: 24.00
   sand: 2.00
@@ -748,18 +748,18 @@ worth:
   sandstoneslab: 4.00
   sandstonestairs: 12.00
   sandstonewall: 8.00
-  scaffolding: 2.00
-  scute: 20.00
+  scaffolding: 24.00
+  scute: 59.50
   seagrass: 1.50
   sealantern: 130.00
   seapickle: 6.00
-  shears: 40.00
+  shears: 53.25
   sheepspawnegg: 0.00
-  shield: 30.00
+  shield: 29.75
   shulkerbox: 1099.40
   shulkershell: 500.00
   shulkerspawnegg: 0.00
-  sign: 12.00
+  sign: 13.00
   silverfishspawnegg: 0.00
   silvershulkerbox: 1107.40
   skeletonhorsespawnegg: 0.00
@@ -768,28 +768,27 @@ worth:
   slimeball: 15.00
   slimeblock: 135.00
   slimespawnegg: 0.00
-  smithingtable: 48.00
+  smithingtable: 43.50
   smoker: 37.00
-  smoothquartz: 35.13
-  smoothquartzslab: 17.56
-  smoothquartzstairs: 52.69
-  smoothredsandstone: 9.76
-  smoothredsandstoneslab: 4.88
-  smoothredsandstonestairs: 14.65
-  smoothsandstone: 13.26
-  smoothsandstoneslab: 6.63
-  smoothsandstonestairs: 19.90
-  smoothstone: 19.78
-  smoothstoneslab: 9.89
-  snow: 0.30
-  snowball: 0.50
+  smoothquartz: 75.13
+  smoothquartzslab: 37.56
+  smoothquartzstairs: 112.69
+  smoothredsandstone: 18.99
+  smoothredsandstoneslab: 9.49
+  smoothredsandstonestairs: 28.48
+  smoothsandstone: 20.99
+  smoothsandstoneslab: 10.49
+  smoothsandstonestairs: 31.48
+  smoothstone: 35.22
+  smoothstoneslab: 17.61
+  snow: 2.00
+  snowball: 1.00
   snowblock: 4.00
   soulcampfire: 49.00
   soulsand: 14.00
   soulsoil: 14.00
-  soultorch: 89.11
-  speckledmelon: 8.00
-  spectralarrow: 40.00
+  soultorch: 150.88
+  spectralarrow: 81.25
   spidereye: 4.00
   spiderspawnegg: 0.00
   splashpotion: 15.00
@@ -810,22 +809,22 @@ worth:
   sprucetrapdoor: 7.50
   sprucewood: 13.33
   stick: 1.00
-  stickypiston: 479.75
-  stone: 10.51
-  stoneaxe: 33.54
-  stonebricks: 10.51
-  stonebrickslab: 5.26
-  stonebrickstairs: 15.77
-  stonebrickwall: 10.51
-  stonebutton: 10.51
-  stonecutter: 49.29
-  stonehoe: 23.03
-  stonepickaxe: 33.54
-  stonepressureplate: 21.03
-  stoneshovel: 12.51
-  stoneslab: 5.26
-  stonestairs: 15.77
-  stonesword: 22.03
+  stickypiston: 339.50
+  stone: 18.24
+  stoneaxe: 56.71
+  stonebricks: 18.24
+  stonebrickslab: 9.12
+  stonebrickstairs: 27.35
+  stonebrickwall: 18.24
+  stonebutton: 18.24
+  stonecutter: 72.46
+  stonehoe: 38.47
+  stonepickaxe: 56.71
+  stonepressureplate: 36.47
+  stoneshovel: 20.24
+  stoneslab: 9.12
+  stonestairs: 27.35
+  stonesword: 37.47
   strayspawnegg: 0.00
   string: 1.50
   strippedacacialog: 1.00
@@ -837,7 +836,7 @@ worth:
   strippedjunglelog: 12.00
   strippedjunglewood: 16.00
   strippedoaklog: 2.00
-  strippedoakwood: 15.00
+  strippedoakwood: 84.50
   strippedsprucelog: 10.00
   strippedsprucewood: 13.33
   sugar: 1.50
@@ -846,15 +845,15 @@ worth:
   suspiciousstew: 50.00
   sweetberries: 0.50
   terracotta: 12.00
-  tippedarrow: 24.00
+  tippedarrow: 11.25
   tnt: 72.00
   tntminecart: 72.00
-  torch: 483.75
-  totemofundying: 5000.00
+  torch: 343.50
+  totemofundying: 1195.00
   traderllamaspawnegg: 0.00
   trapdoor: 6.00
   trappedchest: 37.25
-  trident: 600.00
+  trident: 597.50
   tripwirehook: 21.25
   tropicalfish: 6.00
   tropicalfishbucket: 59.25
@@ -866,30 +865,30 @@ worth:
   tulip_red: 4.00
   tulip_white: 4.00
   turtleegg: 20.00
-  turtlehelmet: 100.00
+  turtlehelmet: 297.50
   turtlespawnegg: 0.00
   villagerspawnegg: 0.00
   vindicatorspawnegg: 0.00
   vine: 2.00
   warpedbutton: 12.00
   warpedhyphae: 16.00
-  warpednylium: 3416.50
-  warpedplanks: 12.00
-  warpedpressureplate: 24.00
-  warpedslab: 6.00
+  warpednylium: 7.00
+  warpedplanks: 3.00
+  warpedpressureplate: 1.50
+  warpedslab: 1.50
   warpedstairs: 18.00
   warpedstem: 12.00
-  waterbucket: 60.00
+  waterbucket: 53.25
   waterlily: 3.00
   web: 3.00
-  wetsponge: 150.00
+  wetsponge: 260.00
   wheat: 2.00
   wheatseeds: 0.50
-  whitebanner: 18.00
+  whitebanner: 27.00
   whitebed: 24.00
   whitecarpet: 2.67
-  whiteconcrete: 11.20
-  whiteconcretepowder: 11.20
+  whiteconcrete: 22.00
+  whiteconcretepowder: 22.00
   whitedye: 2.00
   whiteglazedterracotta: 17.50
   whiteshulkerbox: 508.00
@@ -904,19 +903,16 @@ worth:
   witherskeletonspawnegg: 0.00
   wolfspawnegg: 0.00
   woodenaxe: 27.00
-  woodenbutton: 4.00
-  woodendoor: 4.00
   woodenhoe: 23.00
   woodenpickaxe: 27.00
-  woodenpressureplate: 24.00
   woodenshovel: 19.00
   woodensword: 15.50
   writablebook: 16.00
-  yellowbanner: 18.00
+  yellowbanner: 29.00
   yellowbed: 28.00
   yellowcarpet: 3.33
-  yellowconcrete: 13.20
-  yellowconcretepowder: 13.20
+  yellowconcrete: 24.00
+  yellowconcretepowder: 24.00
   yellowdye: 4.00
   yellowflower: 5.00
   yellowglazedterracotta: 17.50
