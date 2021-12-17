@@ -34,7 +34,7 @@ worth:
   banner: 25.00
   barrel: 22.00
   batspawnegg: 0.00
-  beacon: 132.50
+  beacon: 130.50
   bed: 24.00
   bedrock: 0.00
   beef: 3.00
@@ -67,10 +67,10 @@ worth:
   blackshulkerbox: 508.00
   blackstainedglass: 25.50
   blackstainedglasspane: 9.56
-  blackstone: 56.71
-  blackstoneslab: 28.35
-  blackstonestairs: 85.06
-  blackstonewall: 56.71
+  blackstone: 24.50
+  blackstoneslab: 12.25
+  blackstonestairs: 36.75
+  blackstonewall: 24.50
   blackterracotta: 1.50
   blackwool: 5.00
   blastfurnace: 201.58
@@ -145,9 +145,9 @@ worth:
   chestminecart: 29.25
   chicken: 4.00
   chickenspawnegg: 0.00
-  chiseledpolishedblackstone: 113.41
+  chiseledpolishedblackstone: 49.00
   chiseledquartzblock: 112.00
-  chiseledredsandstone: 62.00
+  chiseledredsandstone: 54.00
   chiseledsandstone: 16.00
   chiseledstonebricks: 36.47
   chorusflower: 110.50
@@ -168,7 +168,7 @@ worth:
   cod: 4.00
   codbucket: 57.25
   commandblock: 0.00
-  comparator: 379.12
+  comparator: 282.50
   compass: 185.75
   composter: 21.00
   conduit: 3031.50
@@ -182,7 +182,7 @@ worth:
   cookie: 8.00
   cornflower: 4.00
   cowspawnegg: 0.00
-  crackedpolishedblackstonebricks: 14.68
+  crackedpolishedblackstonebricks: 6.63
   crackedstonebricks: 18.74
   craftingtable: 8.00
   creeperhead: 300.00
@@ -196,8 +196,8 @@ worth:
   crimsonstairs: 6.00
   crimsonstem: 16.00
   crossbow: 45.00
-  cutredsandstone: 46.50
-  cutredsandstoneslab: 69.75
+  cutredsandstone: 40.50
+  cutredsandstoneslab: 60.75
   cutsandstone: 2.00
   cutsandstoneslab: 1.00
   cyanbed: 31.50
@@ -244,7 +244,7 @@ worth:
   deadtubecoral: 15.00
   deadtubecoralblock: 30.00
   deadtubecoralfan: 15.00
-  detectorrail: 241.49
+  detectorrail: 230.75
   diamond: 119.50
   diamondaxe: 373.50
   diamondblock: 1071.00
@@ -418,7 +418,7 @@ worth:
   ironsword: 36.50
   irontrapdoor: 71.00
   itemframe: 18.00
-  jackolantern: 351.00
+  jackolantern: 12.50
   jukebox: 135.50
   jungleboat: 15.00
   junglebutton: 3.00
@@ -437,7 +437,7 @@ worth:
   junglewood: 16.00
   kelp: 2.50
   ladder: 2.33
-  lantern: 359.28
+  lantern: 20.78
   lapisblock: 164.77
   lapislazuli: 18.31
   lapisore: 119.00
@@ -542,7 +542,7 @@ worth:
   mutton: 4.00
   mycelium: 4.00
   nametag: 238.00
-  nautilusshell: 724.46
+  nautilusshell: 692.25
   netherbrick: 5.50
   netherbrickfence: 99.00
   netherbricks: 22.00
@@ -564,8 +564,8 @@ worth:
   netherquartzore: 4.00
   netherrack: 5.00
   netherstar: 3414.50
-  netherwart: 10.00
-  netherwartblock: 90.00
+  netherwart: 8.00
+  netherwartblock: 72.00
   noteblock: 20.75
   oakboat: 20.00
   oakbutton: 4.00
@@ -586,7 +586,7 @@ worth:
   obsidian: 25.00
   ocelotspawnegg: 0.00
   orangebanner: 33.00
-  orangebed: 140.50
+  orangebed: 138.50
   orangecarpet: 4.00
   orangeconcrete: 28.00
   orangeconcretepowder: 28.00
@@ -612,7 +612,7 @@ worth:
   pigspawnegg: 0.00
   pillagerspawnegg: 0.00
   pinkbanner: 31.00
-  pinkbed: 138.50
+  pinkbed: 136.50
   pinkcarpet: 4.00
   pinkconcrete: 26.00
   pinkconcretepowder: 26.00
@@ -631,15 +631,15 @@ worth:
   polishedandesite: 34.00
   polishedandesiteslab: 17.00
   polishedandesitestairs: 51.00
-  polishedblackstone: 28.35
-  polishedblackstonebricks: 28.35
-  polishedblackstonebrickslab: 14.18
-  polishedblackstonebrickstairs: 42.53
-  polishedblackstonebrickwall: 28.35
-  polishedblackstonebutton: 28.35
-  polishedblackstonepressureplate: 56.71
-  polishedblackstoneslab: 14.18
-  polishedblackstonestairs: 42.53
+  polishedblackstone: 12.25
+  polishedblackstonebricks: 12.25
+  polishedblackstonebrickslab: 6.13
+  polishedblackstonebrickstairs: 18.38
+  polishedblackstonebrickwall: 12.25
+  polishedblackstonebutton: 12.25
+  polishedblackstonepressureplate: 24.50
+  polishedblackstoneslab: 6.13
+  polishedblackstonestairs: 18.38
   polisheddiorite: 63.50
   polisheddioriteslab: 31.75
   polisheddioritestairs: 95.25
@@ -665,7 +665,7 @@ worth:
   pumpkin: 6.00
   pumpkinpie: 7.50
   pumpkinseeds: 1.50
-  purplebed: 140.50
+  purplebed: 138.50
   purplecarpet: 4.00
   purpleconcrete: 28.00
   purpleconcretepowder: 28.00
@@ -708,7 +708,7 @@ worth:
   recordstrad: 250.00
   recordwait: 250.00
   recordward: 250.00
-  redbed: 136.50
+  redbed: 134.50
   redcarpet: 4.00
   redconcrete: 24.00
   redconcretepowder: 24.00
@@ -716,10 +716,10 @@ worth:
   redglazedterracotta: 67.99
   redmushroom: 4.00
   redmushroomblock: 36.00
-  rednetherbricks: 31.00
-  rednetherbrickslab: 15.50
-  rednetherbrickstairs: 46.50
-  rednetherbrickwall: 31.00
+  rednetherbricks: 27.00
+  rednetherbrickslab: 13.50
+  rednetherbrickstairs: 40.50
+  rednetherbrickwall: 27.00
   redsand: 2.00
   redsandstone: 8.00
   redsandstoneslab: 4.00
@@ -811,20 +811,20 @@ worth:
   stick: 1.00
   stickypiston: 339.50
   stone: 18.24
-  stoneaxe: 56.71
+  stoneaxe: 24.50
   stonebricks: 18.24
   stonebrickslab: 9.12
   stonebrickstairs: 27.35
   stonebrickwall: 18.24
   stonebutton: 18.24
   stonecutter: 72.46
-  stonehoe: 38.47
-  stonepickaxe: 56.71
+  stonehoe: 17.00
+  stonepickaxe: 24.50
   stonepressureplate: 36.47
-  stoneshovel: 20.24
+  stoneshovel: 9.50
   stoneslab: 9.12
   stonestairs: 27.35
-  stonesword: 37.47
+  stonesword: 16.00
   strayspawnegg: 0.00
   string: 1.50
   strippedacacialog: 1.00
@@ -848,7 +848,7 @@ worth:
   tippedarrow: 18.13
   tnt: 72.00
   tntminecart: 72.00
-  torch: 343.50
+  torch: 5.00
   totemofundying: 1195.00
   traderllamaspawnegg: 0.00
   trapdoor: 6.00
@@ -928,4 +928,25 @@ worth:
   zombievillagerspawnegg: 0.00
   potion: 35.00
   waterbottle: 24.50
-  awkwardpotion: 45.00
+  awkwardpotion: 43.00
+  basalt: 7.50
+  polishedbasalt: 7.50
+  smoothbasalt: 8.00
+  chain: 21.69
+  warpedfungusonastick: 9.00
+  warpedfungus: 4.00
+  crimsonfungus: 4.00
+  crimsonroots: 0.30
+  warpedroots: 0.30
+  cryingobsidian: 75.00
+  gildedblackstone: 68.00
+  nethergoldore: 34.00
+  nethersprouts: 0.30
+  respawnanchor: 530.00
+  shroomlight: 34.00
+  soullanterns: 166.66
+  target: 69.00
+  twistingvines: 3.00
+  weepingvines: 3.00
+  warpedwartblock: 72.00
+  lodestonecompass: 185.75
