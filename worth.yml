@@ -28,11 +28,13 @@ worth:
   apple: 16.00
   armorstand: 23.61
   arrow: 1.25
+  awkwardpotion: 43.00
   azurebluet: 4.00
   bakedpotato: 4.00
   bamboo: 3.75
   banner: 25.00
   barrel: 22.00
+  basalt: 7.50
   batspawnegg: 0.00
   beacon: 130.50
   bed: 24.00
@@ -136,6 +138,7 @@ worth:
   catspawnegg: 0.00
   cauldron: 124.25
   cavespiderspawnegg: 0.00
+  chain: 21.69
   chainmailboots: 56.80
   chainmailchestplate: 113.60
   chainmailhelmet: 71.00
@@ -188,14 +191,17 @@ worth:
   creeperhead: 300.00
   creeperspawnegg: 0.00
   crimsonbutton: 4.00
+  crimsonfungus: 4.00
   crimsonhyphae: 21.33
   crimsonnylium: 7.00
   crimsonplanks: 4.00
   crimsonpressureplate: 8.00
+  crimsonroots: 0.30
   crimsonslab: 2.00
   crimsonstairs: 6.00
   crimsonstem: 16.00
   crossbow: 45.00
+  cryingobsidian: 75.00
   cutredsandstone: 40.50
   cutredsandstoneslab: 60.75
   cutsandstone: 2.00
@@ -321,6 +327,7 @@ worth:
   furnaceminecart: 806.25
   ghastspawnegg: 0.00
   ghasttear: 119.50
+  gildedblackstone: 68.00
   glass: 24.50
   glassbottle: 24.50
   glasspane: 9.19
@@ -493,6 +500,7 @@ worth:
   lingeringpotion: 135.00
   llamaspawnegg: 0.00
   lodestone: 681.71
+  lodestonecompass: 185.75
   loom: 7.00
   magentabanner: 39.00
   magentabed: 38.00
@@ -549,6 +557,7 @@ worth:
   netherbrickslab: 11.00
   netherbrickstairs: 33.00
   netherbrickwall: 22.00
+  nethergoldore: 34.00
   netheriteaxe: 509.44
   netheriteblock: 3509.48
   netheriteboots: 1460.94
@@ -563,6 +572,7 @@ worth:
   netheritesword: 524.44
   netherquartzore: 4.00
   netherrack: 5.00
+  nethersprouts: 0.30
   netherstar: 3414.50
   netherwart: 8.00
   netherwartblock: 72.00
@@ -640,6 +650,7 @@ worth:
   polishedblackstonepressureplate: 24.50
   polishedblackstoneslab: 6.13
   polishedblackstonestairs: 18.38
+  polishedbasalt: 7.50
   polisheddiorite: 63.50
   polisheddioriteslab: 31.75
   polisheddioritestairs: 95.25
@@ -650,6 +661,7 @@ worth:
   poppy: 4.00
   porkchop: 3.00
   potato: 1.00
+  potion: 35.00
   poweredrail: 472.75
   prismarine: 40.00
   prismarinebricks: 90.00
@@ -738,6 +750,7 @@ worth:
   redwool: 6.00
   reeds: 2.50
   repeater: 94.96
+  respawnanchor: 530.00
   rosebush: 8.00
   rottenflesh: 0.50
   saddle: 178.50
@@ -756,6 +769,7 @@ worth:
   shears: 53.25
   sheepspawnegg: 0.00
   shield: 29.75
+  shroomlight: 34.00
   shulkerbox: 1099.40
   shulkershell: 500.00
   shulkerspawnegg: 0.00
@@ -770,6 +784,7 @@ worth:
   slimespawnegg: 0.00
   smithingtable: 43.50
   smoker: 37.00
+  smoothbasalt: 8.00
   smoothquartz: 75.13
   smoothquartzslab: 37.56
   smoothquartzstairs: 112.69
@@ -785,6 +800,7 @@ worth:
   snowball: 1.00
   snowblock: 4.00
   soulcampfire: 49.00
+  soullanterns: 166.66
   soulsand: 14.00
   soulsoil: 14.00
   soultorch: 150.88
@@ -844,6 +860,7 @@ worth:
   sunflower: 8.00
   suspiciousstew: 50.00
   sweetberries: 0.50
+  target: 69.00
   terracotta: 12.00
   tippedarrow: 18.13
   tnt: 72.00
@@ -867,20 +884,27 @@ worth:
   turtleegg: 20.00
   turtlehelmet: 297.50
   turtlespawnegg: 0.00
+  twistingvines: 3.00
   villagerspawnegg: 0.00
   vindicatorspawnegg: 0.00
   vine: 2.00
   warpedbutton: 12.00
+  warpedfungus: 4.00
+  warpedfungusonastick: 9.00
   warpedhyphae: 16.00
   warpednylium: 7.00
   warpedplanks: 3.00
   warpedpressureplate: 1.50
+  warpedroots: 0.30
   warpedslab: 1.50
   warpedstairs: 18.00
   warpedstem: 12.00
+  warpedwartblock: 72.00
+  waterbottle: 24.50
   waterbucket: 53.25
   waterlily: 3.00
   web: 3.00
+  weepingvines: 3.00
   wetsponge: 260.00
   wheat: 2.00
   wheatseeds: 0.50
