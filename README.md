@@ -1,10 +1,12 @@
 # mc-worth
 hosting for the Minecraft worth.yml file usable with EssentialsX plugin and others
-editing is done via a [google doc sheet](https://docs.google.com/spreadsheets/d/1tmtnwctj-IX8_PXGhj87w_ewZYvSXB9fF8CAqP4JElA/edit?usp=sharing) for the use of formulas.
+~editing is done via a [google doc sheet](https://docs.google.com/spreadsheets/d/1tmtnwctj-IX8_PXGhj87w_ewZYvSXB9fF8CAqP4JElA/edit?usp=sharing) for the use of formulas.~
+
+I am now using LibreOffice to edit the formulas as Google likes to mess things up.  The .ods file is part of the repo and uploaded as I make commits.  the google sheet is still there if you want to view or copy it.
 
 License: (short version) Do what you want with it, a large part of the content is not mine anyway.  Share what you add, pull requests will be accepted most of the time.  Fork it if you want, but please submit pull requests if you add any significant changes.
 
-Please note this is a work in progress, as I complete the revamp of the list prices I will do a "release", when I finish adding the 1.16 items, I will do a "release", when I finish adding the 1.17 items, I will do a "release", and so on.  Please note my intent is to post this page on Reddit r/admincraft after performing the initial "release".
+Please note this is and will always be a work in progress, this list should be used as a "base" for your server economy.  Note that server economies change over time and modifications to this list by you should be performed as needed.
 
 create issues for requested updates please
 
@@ -25,8 +27,8 @@ The point of this repo is to retain a publicly available listibng of values for 
 
 I have discovered 2 very helpful repo's for maintaining this repo moving forward
 1. [Redwolf Program's minecraft-lists](https://github.com/RedwolfPrograms/minecraft-lists)
-  1. he is extracting the items and blocks out of the jar file, YAY!
+   1. he is extracting the items and blocks out of the jar file, YAY!
 1. [Pokechu22's Burger](https://github.com/pokechu22/Burger)
-  1. he has built a script to pull data out of the jar file, YAY!
+   1. he has built a script to pull data out of the jar file, YAY!
 
 using Redwolf's repo will help me update faster as I can import the item & block lists then filter dupes out to start adding values almost as soon as the jar is available from Mojang.
