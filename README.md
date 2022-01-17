@@ -21,3 +21,12 @@ The point of this repo is to retain a publicly available listibng of values for 
 - The base of this list is someone else's 1.15 list I borrowed 2 years ago and do not have the name of the original owner, I found it on reddit, it has lots of bad values, I have not fixed all of them. (example I just noticed, birch log = 10, birch plank = 3.3, birch slab = 1.3, stick = 0.5, and a wooden shovel = 2.0... definitely needs fixing)
 - I am starting with this list as I have already added a little over half of the 1.16 items
 - The list is alphabetically sorted, yes categories would be nice; however as minecraft seems to have been adjusting item names over the last year and some change, keeping it alphabetical keeps most of the related items together anyway, and makes it easier to find a single item without guessing how someone else decided to categorize it (besides searching ;)
+
+
+I have discovered 2 very helpful repo's for maintaining this repo moving forward
+1. [Redwolf Program's minecraft-lists](https://github.com/RedwolfPrograms/minecraft-lists)
+  1. he is extracting the items and blocks out of the jar file, YAY!
+1. [Pokechu22's Burger](https://github.com/pokechu22/Burger)
+  1. he has built a script to pull data out of the jar file, YAY!
+
+using Redwolf's repo will help me update faster as I can import the item & block lists then filter dupes out to start adding values almost as soon as the jar is available from Mojang.
